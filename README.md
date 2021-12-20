@@ -54,7 +54,7 @@ The *log* interaction duration and *log* interaction frequency in each phase (in
 Please download the files from the google drive for replication purposes.
 
 In each file, we list tie ranges and interactions in all phases. 
-For example, in "Results/Graph_season_TR_Duration.txt", the former eight columns are tie range and the latter eight columns are *log* interaction duration.
+For example, in 'Results/Graph_season_TR_Duration.txt', the former eight columns are tie range and the latter eight columns are *log* interaction duration.
 Tie range is calculated by the length of the second shortest path of two nodes. 
 '-1' means that one node of this connection have no interaction with others in this phase.
 '100' means that there is no second path between two nodes, indicating that the tie range is infinite.
