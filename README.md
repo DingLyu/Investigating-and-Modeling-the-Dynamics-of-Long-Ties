@@ -48,15 +48,15 @@ We also compare our model and two baselines: baseline1.py is a classic connectio
 ## Data
 
 We employ a nationwide phone call dataset from Jan. 2015 to Dec. 2016.
-The *log* interaction duration and *log* interaction frequency in each phase (intermediate results) are both provided. Currently we upload the Results folder to Google Drive.
+The *log* interaction duration and *log* interaction frequency in each phase (intermediate results) are both provided. Currently, we upload the Results folder to Google Drive.
 (https://drive.google.com/drive/folders/1h4rHZvzzQO7niYMelbzToJZernOij1dv?usp=sharing)
 
-Please download the files from the google drive for replication purposes.
+Please download the files from google drive for replication purposes.
 
 In each file, we list tie ranges and interactions in all phases. 
 For example, in 'Results/Graph_season_TR_Duration.txt', the former eight columns are tie range and the latter eight columns are *log* interaction duration.
 Tie range is calculated by the length of the second shortest path of two nodes. 
-'-1' means that one node of this connection have no interaction with others in this phase.
+'-1' means that one node of this connection has no interaction with others in this phase.
 '100' means that there is no second path between two nodes, indicating that the tie range is infinite.
 '101' means that the degree of one node is 1, indicating that the tie range is infinite.  
 
