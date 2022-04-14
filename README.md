@@ -1,6 +1,6 @@
 # codes and data for "Investigating and Modeling the Dynamics of Long Ties"
 
-Preprint: https://arxiv.org/abs/2109.10523
+Paper: https://www.nature.com/articles/s42005-022-00863-w
 
 Contact: Yuan Yuan, Purdue University, yuanyuan@purdue.edu
 
